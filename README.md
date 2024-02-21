@@ -26,4 +26,12 @@ ngrok for https tunneling
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
 
+UI of the WebPage
+![image](https://github.com/Vignesh142/ChatBot/assets/101886482/61ee8ead-9e01-41a5-bfb7-a6492c572fc2)
+
+Goolge DailogFlow API
+![image](https://github.com/Vignesh142/ChatBot/assets/101886482/eff081dd-4876-4b68-a87d-9d5e0d0a6d4e)
+
+
+
 
